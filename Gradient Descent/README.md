@@ -13,7 +13,8 @@ The code for this project is organized as follows:
 ML-Math-Concepts/
 └── Gradient Descent/
     ├── app.py
-    ├── plot_visualization.py
+    ├── algos
+        └── gradient_descent.py
     └── README.md
 ```
 
@@ -40,7 +41,7 @@ To run the code in this repository, follow these steps:
 2. **Install Required Libraries**:
    Make sure you have Python installed, and then install the required libraries:
    ```bash
-   pip install numpy opencv-python matplotlib
+   pip install -r requirements.txt
    ```
 
 3. **Run the Code**:
