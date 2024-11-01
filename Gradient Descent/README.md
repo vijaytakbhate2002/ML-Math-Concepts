@@ -1,6 +1,4 @@
-Here’s the updated README file with the main file name changed to `app.py`:
 
-```markdown
 # Gradient Descent Learning Project
 
 ## Overview
@@ -63,7 +61,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to explore and contribute to the project! If you have any questions, open an issue on the repository.
 ```
 
-### Changes Made
-- The main file name has been updated to `app.py`.
-  
-You can adjust any other details in the README as needed!
+
