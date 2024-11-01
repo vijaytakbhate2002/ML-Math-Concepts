@@ -5,6 +5,10 @@
 
 This project explores the concept of **Gradient Descent**, a fundamental optimization algorithm used in machine learning and statistics. The goal is to minimize the Mean Squared Error (MSE) by iteratively adjusting the slope and intercept of a linear model. This repository contains code that provides a visual representation of the gradient descent process using the OpenCV library.
 
+## Demo
+
+https://github.com/user-attachments/assets/8570d974-f72a-40cf-8ee2-d51cfe1b125f
+
 ## Repository Structure
 
 The code for this project is organized as follows:
