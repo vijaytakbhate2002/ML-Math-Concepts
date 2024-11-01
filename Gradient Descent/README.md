@@ -23,7 +23,7 @@ ML-Math-Concepts/
 ```
 
 - **app.py**: Contains the implementation of the gradient descent algorithm and visual representations.
-- **plot_visualization.py**: Generates visualizations of MSE, slope, and intercept during the gradient descent process.
+- **gradient_descent.py**: Generates visualizations of MSE, slope, and intercept during the gradient descent process.
 - **README.md**: This file.
 
 ## Key Features
